@@ -14,7 +14,7 @@
 
 		<hibernate.entity>5.6.0.Final</hibernate.entity>
 
-		<mssql.version>9.4.0.jre8</mssql.version>
+		<mssql.version>9.4.1.jre8</mssql.version>
 
 		<weld.servlet.version>2.4.8.Final</weld.servlet.version>
 
